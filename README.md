@@ -8,3 +8,5 @@ Decentralization of water management in Namibia follows a community-based co-man
 The code in this repository can be used to reproduce the figures and regression analysis in Stata (some packages need to be installed via SSC) but the data file can of course be used with other programs like R or SPSS.
 - "female_leaders.do" includes the Stata code
 - "female_leaders.dta" includes the data from the behavioral task and surveys data in Stata format (.dta) & "female_leaders.xlsx" includes these data in Excel format (.xlsx)
+
+https://zenodo.org/badge/latestdoi/276100189
