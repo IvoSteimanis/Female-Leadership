@@ -9,4 +9,5 @@ The code in this repository can be used to reproduce the figures and regression 
 - "female_leaders.do" includes the Stata code
 - "female_leaders.dta" includes the data from the behavioral task and surveys data in Stata format (.dta) & "female_leaders.xlsx" includes these data in Excel format (.xlsx)
 
-https://zenodo.org/badge/latestdoi/276100189
+[![DOI](https://zenodo.org/badge/276100189.svg)](https://zenodo.org/badge/latestdoi/276100189)
+
