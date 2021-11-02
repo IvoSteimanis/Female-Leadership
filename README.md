@@ -1,7 +1,7 @@
 # When female leaders believe that men make better leaders: Empowerment in community-based water management in rural Namibia
-This repository provides the data and analysis files to reproduce the results of the paper "When female leaders believe that men make better leaders: Empowerment in community-based water management in rural Namibia" under review at the Journal of Rural Studies.
-
+This repository provides the data and analysis files to reproduce the results of the paper "When female leaders believe that men make better leaders: Empowerment in community-based water management in rural Namibia" under review at the Journal of Rural Studies. 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3923982.svg)](https://doi.org/10.5281/zenodo.3923982)
+
 
 
 ## Abstract
